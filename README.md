@@ -169,6 +169,8 @@ for (item of buttons) {
 
 
 ## OUTPUT:
+![Screenshot (424)](https://github.com/selvasachein/Calc/assets/103128410/7ef224b7-0a92-426a-9e68-33be603db0ce)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
